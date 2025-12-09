@@ -26,8 +26,8 @@ This project follows the MVC architecture and is suitable for Java backend fresh
 
 
 ## 📂 Project Structure
----
 
+---
 StudentManagementSystem/
 │
 ├── src/
