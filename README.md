@@ -50,8 +50,6 @@ StudentManagementSystem/
 └── .gitignore
 ---
 
----
-
 ## 🗄 Database Design
 ---
 CREATE DATABASE studentdb;
