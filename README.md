@@ -1,7 +1,7 @@
 # Student Management System
 
 A simple web-based CRUD application developed using Java, JDBC, Servlets, JSP, and MySQL.  
-This project follows the MVC architecture and is suitable for Java backend fresher roles.
+This project follows the MVC architecture.
 
 ---
 
